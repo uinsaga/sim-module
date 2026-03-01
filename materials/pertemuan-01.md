@@ -95,7 +95,7 @@ Setelah memahami sistem, kita perlu memahami bahan bakunya, yaitu data, dan baga
 
 Hubungan antara data, informasi, dan level yang lebih tinggi sering digambarkan dalam sebuah piramida yang disebut **Piramida DIKW**. Ini adalah fondasi penting dalam ilmu informasi dan manajemen pengetahuan.
 
-![DIKW](./assets/dikw-piramid.png)
+![DIKW](../assets/dikw-piramid.png)
 
 **Penjelasan Hierarki dari Bawah ke Atas:**
 
