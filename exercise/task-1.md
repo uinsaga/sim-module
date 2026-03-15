@@ -1,6 +1,10 @@
-## Soal Analisis Kasus
+# Soal Analisis Kasus
 
-### Topik: Penerapan Konsep DIKW dalam Pengelolaan Media Dakwah Digital
+- Tugas Pengganti Pertemuan 4
+- Mata Kuliah: Sistem Informasi Management
+- Materi: Penerapan Konsep DIKW dalam Pengelolaan Media Dakwah Digital
+
+## Kasus
 
 Sebuah **Lembaga Dakwah Kampus (LDK)** di sebuah perguruan tinggi memiliki tim media yang mengelola berbagai platform digital seperti **Instagram, YouTube, dan website dakwah**. Setiap pekan mereka memposting konten berupa video kajian, quote islami, dan potongan ceramah.
 
