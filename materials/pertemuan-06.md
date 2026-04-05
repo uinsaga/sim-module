@@ -1,5 +1,3 @@
-# 📘 MODUL KULIAH (DIREVISI & DIPERJELAS)
-
 ## User Experience (UX) Design dalam Sistem Komunikasi
 
 **Program Studi:** Komunikasi Penyiaran Islam (KPI)  
