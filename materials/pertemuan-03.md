@@ -178,3 +178,19 @@ Mahasiswa diminta memilih satu konten dakwah digital, kemudian menjawab:
 Memahami komunikasi sebagai sistem membantu kita melihat masalah secara lebih menyeluruh. Kegagalan komunikasi tidak selalu disebabkan oleh individu, tetapi sering kali merupakan hasil dari sistem yang tidak berjalan dengan baik.
 
 Dengan pendekatan ini, mahasiswa diharapkan mampu menyampaikan pesan, merancang, dan mengevaluasi sistem komunikasi secara kritis.
+
+## Referensi
+
+* Ludwig von Bertalanffy. (1968). *General System Theory: Foundations, Development, Applications*. New York: George Braziller.
+
+* Katz Daniel, & Robert L Kahn. (1978). *The Social Psychology of Organizations*. New York: Wiley.
+
+* James G Miller. (1978). *Living Systems*. New York: McGraw-Hill.
+
+* Laudon Kenneth C, & Laudon Jane P. (2020). *Management Information Systems: Managing the Digital Firm*. Pearson.
+
+* Stephen P Robbins, & Mary Coulter. (2018). *Management*. Pearson.
+
+* R Wayne Pace, & Don F Faules. (2015). *Komunikasi Organisasi: Strategi Meningkatkan Kinerja Perusahaan*. Bandung: Remaja Rosdakarya.
+
+---

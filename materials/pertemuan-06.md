@@ -1,9 +1,7 @@
 ## User Experience (UX) Design dalam Sistem Komunikasi
 
-**Program Studi:** Komunikasi Penyiaran Islam (KPI)  
-**Mata Kuliah:** Perancangan Sistem Informasi Manajemen  
-**Bobot:** 2 SKS (1x pertemuan)  
-**Semester:** 4 (Genap)
+Mata Kuliah: Sistem Informasi Manajemen (SIM)
+Program Studi: Komunikasi dan Penyiaran Islam (KPI)
 
 ---
 
@@ -325,8 +323,6 @@ Sebagai mahasiswa KPI, desain UX tidak boleh bertentangan dengan nilai-nilai Isl
 > **"Desain yang baik bukan hanya indah, tapi mampu menyampaikan pesan dengan jelas, mudah, dan bermakna."**
 
 Sebagai calon praktisi Komunikasi Penyiaran Islam, Anda tidak hanya dituntut menjadi komunikator yang baik, tetapi juga **fasilitator komunikasi** yang mampu merancang sistem digital yang ramah, inklusif, dan berakhlak. UX adalah jembatan antara teknologi dan umat. Kuasai UX, maka pesan dakwah Anda akan lebih mudah sampai, insya Allah.
-
-**Selamat belajar dan berkarya untuk umat!**
 
 ---
 
