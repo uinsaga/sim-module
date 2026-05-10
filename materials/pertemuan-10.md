@@ -12,10 +12,15 @@
 Setelah mempelajari modul ini, mahasiswa mampu:
 
 ✅ Memahami konsep Sistem Informasi Manajemen (SIM) dalam bidang Public Relations (PR).
+
 ✅ Menjelaskan fungsi media monitoring dalam dunia komunikasi modern.
+
 ✅ Memahami proses crisis management (manajemen krisis).
+
 ✅ Mengidentifikasi peran media sosial dalam pembentukan opini publik.
+
 ✅ Menganalisis kasus krisis komunikasi menggunakan pendekatan SIM.
+
 ✅ Menggunakan data dan informasi untuk pengambilan keputusan komunikasi.
 
 ---
