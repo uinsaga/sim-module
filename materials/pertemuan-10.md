@@ -11,17 +11,12 @@
 
 Setelah mempelajari modul ini, mahasiswa mampu:
 
-✅ Memahami konsep Sistem Informasi Manajemen (SIM) dalam bidang Public Relations (PR).
-
-✅ Menjelaskan fungsi media monitoring dalam dunia komunikasi modern.
-
-✅ Memahami proses crisis management (manajemen krisis).
-
-✅ Mengidentifikasi peran media sosial dalam pembentukan opini publik.
-
-✅ Menganalisis kasus krisis komunikasi menggunakan pendekatan SIM.
-
-✅ Menggunakan data dan informasi untuk pengambilan keputusan komunikasi.
+- Memahami konsep Sistem Informasi Manajemen (SIM) dalam bidang Public Relations (PR).
+- Menjelaskan fungsi media monitoring dalam dunia komunikasi modern.
+- Memahami proses crisis management (manajemen krisis).
+- Mengidentifikasi peran media sosial dalam pembentukan opini publik.
+- Menganalisis kasus krisis komunikasi menggunakan pendekatan SIM.
+- Menggunakan data dan informasi untuk pengambilan keputusan komunikasi.
 
 ---
 
@@ -72,14 +67,14 @@ Setiap hari muncul:
 * dan isu viral.
 
 Tanpa sistem informasi:
-❌ data berantakan
-❌ sulit dianalisis
-❌ keputusan lambat
+- data berantakan
+- sulit dianalisis
+- keputusan lambat
 
 Dengan SIM:
-✅ data terkumpul
-✅ opini publik bisa dipantau
-✅ pimpinan bisa mengambil keputusan cepat
+- data terkumpul
+- opini publik bisa dipantau
+- pimpinan bisa mengambil keputusan cepat
 
 ---
 
@@ -129,11 +124,11 @@ Media monitoring adalah:
 
 # Tujuan Media Monitoring
 
-✅ Mengetahui opini publik
-✅ Mengetahui isu viral
-✅ Mengukur citra organisasi
-✅ Mengidentifikasi hoaks
-✅ Mengetahui respon masyarakat
+- Mengetahui opini publik
+- Mengetahui isu viral
+- Mengukur citra organisasi
+- Mengidentifikasi hoaks
+- Mengetahui respon masyarakat
 
 ---
 
@@ -164,9 +159,9 @@ Mahasiswa mulai:
 * menyebarkan poster digital.
 
 Jika kampus tidak melakukan monitoring:
-❌ isu semakin besar
-❌ opini publik negatif
-❌ reputasi turun
+- isu semakin besar
+- opini publik negatif
+- reputasi turun
 
 ---
 
@@ -189,9 +184,9 @@ Mereka menemukan:
 # Keputusan PR
 
 PR kemudian:
-✅ membuat konferensi pers
-✅ membuat infografik transparansi
-✅ membuka sesi tanya jawab online
+- membuat konferensi pers
+- membuat infografik transparansi
+- membuka sesi tanya jawab online
 
 Hasil:
 
@@ -270,7 +265,7 @@ Komentar:
 ```
 
 Sentimen:
-✅ Positif
+- Positif
 
 ---
 
@@ -281,7 +276,7 @@ Komentar:
 ```
 
 Sentimen:
-❌ Negatif
+- Negatif
 
 ---
 
@@ -344,10 +339,10 @@ Pertanyaan penting:
 # C. Respon Krisis
 
 PR harus:
-✅ cepat
-✅ jelas
-✅ transparan
-✅ tidak emosional
+- cepat
+- jelas
+- transparan
+- tidak emosional
 
 ---
 
@@ -378,9 +373,9 @@ Isi video:
 
 # Dampak
 
-❌ reputasi kampus turun
-❌ komentar negatif meningkat
-❌ media mulai memberitakan
+- reputasi kampus turun
+- komentar negatif meningkat
+- media mulai memberitakan
 
 ---
 
@@ -408,9 +403,9 @@ Ditemukan:
 ## Tahap 3 — Respon
 
 Kampus:
-✅ meminta maaf
-✅ menjelaskan kronologi
-✅ memperbaiki sistem pelayanan
+- meminta maaf
+- menjelaskan kronologi
+- memperbaiki sistem pelayanan
 
 ---
 
@@ -502,10 +497,10 @@ Sebagai mahasiswa KPI, penting memahami bahwa komunikasi harus sesuai nilai Isla
 # Relevansi dalam Crisis Management
 
 Saat krisis:
-✅ jangan menyebarkan hoaks
-✅ verifikasi informasi
-✅ hindari provokasi
-✅ gunakan bahasa santun
+- jangan menyebarkan hoaks
+- verifikasi informasi
+- hindari provokasi
+- gunakan bahasa santun
 
 ---
 
@@ -513,8 +508,8 @@ Saat krisis:
 
 Jika ada berita viral:
 
-❌ langsung menyebarkan tanpa cek
-✅ melakukan tabayyun terlebih dahulu
+- ❌ langsung menyebarkan tanpa cek
+- ✅ melakukan tabayyun terlebih dahulu
 
 ---
 
@@ -629,9 +624,9 @@ Strategi menangani:
 ## Peran PR
 
 PR menjaga:
-✅ citra
-✅ hubungan publik
-✅ komunikasi organisasi
+- citra
+- hubungan publik
+- komunikasi organisasi
 
 ---
 
