@@ -1,189 +1,245 @@
 # Ujian Akhir Semester (UAS) -- 2026
-# Perancangan Sistem Informasi Manajemen
 
-## Program Studi Komunikasi dan Penyiaran Islam (KPI)
+# Perancangan Sistem Informasi Manajemen (PSIM)
 
 ---
 
 # Deskripsi
 
-Ujian Akhir Semester (UAS) dilaksanakan dalam bentuk **proyek sederhana** berupa usulan rancangan Sistem Informasi Manajemen (SIM) yang dapat menjadi solusi atas permasalahan di lingkungan sekitar.
+Ujian Akhir Semester (UAS) dilaksanakan dalam bentuk mini project berupa usulan rancangan Sistem Informasi untuk membantu menyelesaikan suatu permasalahan sederhana di lingkungan sekitar.
 
-Mahasiswa diharapkan mampu menerapkan konsep-konsep yang telah dipelajari selama satu semester untuk mengidentifikasi masalah dan merancang solusi berbasis sistem informasi.
-
----
-
-# Ketentuan
-
-- Dikerjakan secara **berkelompok (maksimal 3 mahasiswa)**.
-- Waktu pengerjaan: **1 minggu**.
-- Objek dapat dipilih dari lingkungan sekitar, seperti:
-  - Masjid
-  - Pondok pesantren
-  - Sekolah/Madrasah
-  - Organisasi mahasiswa
-  - UKM
-  - UMKM
-  - Komunitas
-  - Desa
-  - Tempat kerja
-  - Atau objek lain yang relevan.
-
-- Mahasiswa **diperbolehkan menggunakan Artificial Intelligence (AI)** sebagai alat bantu dalam mencari referensi dan mengembangkan ide.
-- Hasil akhir harus dipahami dan dapat dipertanggungjawabkan oleh seluruh anggota kelompok.
-- Laporan dikumpulkan dalam format **PDF** dan di submit ke google classroom.
+Mahasiswa diharapkan mampu mengidentifikasi permasalahan, mengusulkan solusi berupa sistem informasi, serta menjelaskan manfaat sistem tersebut.
 
 ---
 
-# Soal UAS
+# Apa yang Harus Dikumpulkan?
 
-Rancanglah sebuah **Sistem Informasi Manajemen** yang dapat membantu menyelesaikan suatu permasalahan di lingkungan sekitar.
+UAS dikerjakan secara **berkelompok (maksimal 3 mahasiswa)**.
 
-Sistem yang diusulkan tidak harus dibuat dalam bentuk aplikasi, tetapi cukup berupa konsep atau rancangan sistem yang menjelaskan bagaimana sistem tersebut bekerja dan memberikan manfaat bagi penggunanya.
+Setiap kelompok wajib mengumpulkan:
+
+## 1. Laporan
+
+* Format PDF.
+* Panjang sekitar 3–5 halaman.
+
+---
+
+## 2. Video Presentasi
+
+* Diunggah ke YouTube.
+* Mode Public atau Unlisted.
+
+---
+
+## 3. Link Video YouTube
+
+Link video dikumpulkan bersama laporan.
+
+---
+
+# Ketentuan Umum
+
+## Waktu Pengerjaan
+
+* 1 minggu.
+
+---
+
+## Penggunaan AI
+
+Mahasiswa diperbolehkan menggunakan Artificial Intelligence (AI) sebagai alat bantu dalam proses pengerjaan.
+
+Namun, seluruh anggota kelompok diharapkan memahami hasil pekerjaan dan mampu menjelaskan usulan sistem yang dibuat.
 
 ---
 
 # Format Laporan
 
-## Cover
-
-Memuat:
-
-- Judul Sistem
-- Nama Anggota Kelompok
-- NIM
-- Mata Kuliah
-- Program Studi
-- Tahun Akademik
-
----
-
-# 1. Latar Belakang
+## A. Latar Belakang
 
 Jelaskan secara singkat:
 
-- Permasalahan yang terjadi.
-- Mengapa diperlukan solusi berupa sistem informasi.
-
-**Panjang: sekitar 1 halaman.**
+* Permasalahan yang ditemukan.
+* Alasan memilih permasalahan tersebut.
 
 ---
 
-# 2. Usulan Sistem
+## B. Usulan Sistem Informasi
 
 Jelaskan:
 
-- Nama sistem.
-- Tujuan sistem.
-- Siapa saja pengguna sistem.
-- Gambaran singkat cara kerja sistem.
-
-**Panjang: sekitar 1 halaman.**
+* Nama sistem.
+* Tujuan sistem.
+* Pengguna sistem.
 
 ---
 
-# 3. Fitur Utama Sistem
+## C. Fitur Sistem
 
-Tuliskan minimal **5 fitur utama**.
-
-Contoh format:
-
-| No | Fitur | Fungsi |
-|----|--------|----------|
-| 1 | Login | Autentikasi pengguna |
-| 2 | Dashboard | Menampilkan informasi utama |
-| 3 | Kelola Data | Mengelola data |
-| 4 | Laporan | Menyajikan laporan |
-| 5 | Notifikasi | Memberikan pengingat |
+Tuliskan fitur-fitur utama yang diusulkan.
 
 ---
 
-# 4. Alur Sistem
+## D. Alur Sistem
 
-Buat alur kerja sistem secara sederhana.
-
-Dapat berupa flowchart atau diagram sederhana.
-
-Contoh:
-
-```
-Mulai
-  ↓
-Input Data
-  ↓
-Proses
-  ↓
-Penyimpanan Data
-  ↓
-Menampilkan Informasi
-  ↓
-Selesai
-```
-
-Berikan penjelasan singkat mengenai alur tersebut.
+Jelaskan secara singkat bagaimana sistem bekerja atau sertakan flowchart sederhana.
 
 ---
 
-# 5. Manfaat dan Kesimpulan
+## E. Manfaat Sistem
 
-Jelaskan:
-
-- Manfaat sistem yang diusulkan.
-- Kendala yang mungkin dihadapi.
-- Pengembangan sistem di masa depan.
-
-**Panjang: sekitar 1 halaman.**
+Jelaskan manfaat sistem bagi pengguna atau organisasi.
 
 ---
 
-# Ketentuan Penulisan
+## F. Kesimpulan
 
-- Kertas A4
-- Font Times New Roman
-- Ukuran 12 pt
-- Spasi 1,5
-- Margin normal
-- Panjang laporan sekitar **4–6 halaman** (tidak termasuk cover).
+Sampaikan kesimpulan dan kemungkinan pengembangan sistem di masa depan.
+
+---
+
+# Format Video Presentasi
+
+Durasi video sekitar **3–5 menit**.
+
+## 1. Perkenalan Kelompok
+
+Seluruh anggota kelompok memperkenalkan diri dengan menampilkan wajah.
+
+Cukup menyampaikan:
+
+* Nama.
+* NIM.
+
+---
+
+## 2. Permasalahan
+
+Jelaskan permasalahan yang ditemukan.
+
+---
+
+## 3. Usulan Sistem
+
+Jelaskan sistem informasi yang diusulkan.
+
+---
+
+## 4. Manfaat Sistem
+
+Jelaskan manfaat yang diharapkan dari sistem tersebut.
+
+---
+
+## 5. Penutup
+
+Sampaikan kesimpulan singkat.
+
+---
+
+Bagian presentasi dapat menggunakan:
+
+* Slide.
+* Canva.
+* Screen sharing.
+* Gambar.
+* Voice over.
+
+Tidak diwajibkan menampilkan wajah selama presentasi.
+
+---
+
+# Soal UAS
+
+Buatlah sebuah usulan Sistem Informasi yang dapat membantu menyelesaikan suatu permasalahan sederhana di lingkungan sekitar.
+
+Permasalahan dapat berasal dari berbagai bidang, misalnya:
+
+## Pendidikan
+
+* Pendataan siswa atau mahasiswa.
+* Peminjaman buku.
+* Jadwal kegiatan.
+
+## Organisasi
+
+* Pendataan anggota.
+* Kas organisasi.
+* Inventaris barang.
+* Kegiatan organisasi.
+
+## Keagamaan
+
+* Pendataan jamaah.
+* Jadwal kegiatan masjid.
+* Pengelolaan zakat atau infak.
+* Inventaris masjid.
+
+## Sosial
+
+* Pendataan warga.
+* Kegiatan masyarakat.
+* Donasi.
+* Bank sampah.
+
+## UMKM
+
+* Pendataan pelanggan.
+* Stok barang.
+* Penjualan sederhana.
+
+## Bidang lainnya
+
+Mahasiswa diperbolehkan mengembangkan ide lain yang relevan.
+
+---
+
+# Ketentuan Usulan Sistem
+
+Sistem yang diusulkan harus:
+
+## 1. Memiliki permasalahan yang jelas.
+
+---
+
+## 2. Memiliki tujuan yang jelas.
+
+---
+
+## 3. Memiliki beberapa fitur utama yang mendukung penyelesaian masalah.
+
+---
+
+## 4. Memberikan manfaat bagi pengguna atau organisasi.
 
 ---
 
 # Kriteria Penilaian
 
-| Aspek | Bobot |
-|--------|------:|
-| Identifikasi masalah | 20 |
-| Ide dan kreativitas sistem | 25 |
-| Kelengkapan fitur | 20 |
-| Alur sistem | 15 |
-| Manfaat dan solusi yang ditawarkan | 10 |
-| Kerapian penyajian laporan | 10 |
-| **Total** | **100** |
-
----
-
-# Contoh Ide Sistem
-
-Mahasiswa **tidak wajib** memilih contoh berikut.
-
-- Sistem Informasi Manajemen Masjid
-- Sistem Informasi Pondok Pesantren
-- Sistem Informasi Perpustakaan
-- Sistem Informasi Organisasi Mahasiswa
-- Sistem Informasi Donasi
-- Sistem Informasi Kegiatan Kampus
-- Sistem Informasi Alumni
-- Sistem Informasi UMKM
-- Sistem Informasi Desa
-- Sistem Informasi Bank Sampah
-- Sistem Informasi Pengelolaan Qurban
-- Sistem Informasi Jadwal Kajian
-- Sistem Informasi Inventaris Organisasi
-- Sistem Informasi Peminjaman Sarana dan Prasarana
-
-Mahasiswa juga diperbolehkan mengusulkan ide sistem lainnya yang relevan dengan kebutuhan di lingkungan sekitar.
+| Aspek                     |    Bobot |
+| ------------------------- | -------: |
+| Identifikasi permasalahan |      25% |
+| Kesesuaian usulan sistem  |      35% |
+| Presentasi video          |      20% |
+| Kreativitas dan manfaat   |      20% |
+| **Total**                 | **100%** |
 
 ---
 
 # Catatan
 
-Tidak ada jawaban yang mutlak benar atau salah. Penilaian difokuskan pada kemampuan mahasiswa dalam mengidentifikasi permasalahan, menghubungkan konsep Sistem Informasi Manajemen, serta mengusulkan solusi yang logis, kreatif, dan bermanfaat bagi pengguna.
+* Mahasiswa diperbolehkan menggunakan AI sebagai alat bantu.
+* Sistem tidak harus diimplementasikan menjadi aplikasi.
+* Fokus utama UAS ini adalah kemampuan menganalisis permasalahan dan menyusun usulan solusi berupa Sistem Informasi yang relevan.
+* Kreativitas dan kebermanfaatan sistem akan menjadi nilai tambah.
+
+---
+
+# Pesan untuk Mahasiswa
+
+Pilihlah permasalahan yang ada di sekitar Anda. Tidak perlu mencari masalah yang besar atau rumit.
+
+Usulan Sistem Informasi yang sederhana, realistis, dan bermanfaat akan memperoleh penilaian yang baik.
+
+**Selamat mengerjakan dan semoga sukses!**
